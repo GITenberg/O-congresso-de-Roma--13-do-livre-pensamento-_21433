@@ -1,0 +1,42 @@
+_repo: O-congresso-de-Roma--13-do-livre-pensamento-_21433
+_version: 0.1.0
+alternative_title: "O congresso de Roma\r\n(Conferência realizada pelo delegado português\
+  \ do congresso do livre-pensamento)"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, S. de Magalhães (Sebastião de Magalhães)
+    aliases:
+    - De Magalhães Lima, S. (Sebastião)
+    - Magalhães Lima, S. de (Sebastião)
+    - Lima, Magalhães
+    - Lima, Sebastião de Magalhães
+    - Lima, Sebastiao de Magalhaes
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '9922'
+    url: http://www.gutenberg.org/2009/agents/9922
+    wikipedia: http://pt.wikipedia.org/wiki/Sebasti%C3%A3o_de_Magalh%C3%A3es_Lima
+description: ''
+gutenberg_issued: '2007-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21433'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com (produzido a partir\r\ndas imagens de obras em domínio\
+  \ público, disponibilizadas\r\npela BibRIA - Biblioteca digital dos municípios da\
+  \ Ria)"
+publication_note: "Lisboa:\r\nTypographia de O Diario\r\nRua da Atalaya, 134\r\n1904"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'International Freethought Congress (1st : 1904 : Rome, Italy)'
+- !lcc 'BL'
+title: "O congresso de Roma\r\n(Conferência realisada pelo delegado portuguez do congresso\
+  \ do livre-pensamento)"
+url: http://www.gutenberg.org/ebooks/21433
